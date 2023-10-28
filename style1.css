@@ -1,0 +1,37 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+img{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+}
+#sam1
+{
+    position: absolute;
+}
+#sam{
+    position: absolute;
+    left: 33%;
+    bottom: 20%;
+    width: 500px;
+    height: 550px;
+    background-color: #5882C1;
+    opacity: .6; 
+    border-radius: 15px;
+    /* z-index: 0; */
+}
+h1{
+    position: relative;
+    left: 530px;
+    color: white;
+    top: 170px;
+}
+#bodyl{
+    position: relative;
+    left: 530px;
+    top: 170px;
+    width: 400px;
+    height: 30px;
+}
